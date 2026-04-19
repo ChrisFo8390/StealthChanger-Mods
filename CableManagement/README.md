@@ -15,7 +15,7 @@ ATTENTION: The size and the angle of the push fitting prevent this plate from be
 ![back](images/back.png)
 
 At the moment, this is only usable with a higher frame. It is not compatible with a top hat yet.\
-Preview: ![only passthrough](images/umbilical_plate_LP-12_frame.png)
+Preview:</br> ![only passthrough](images/umbilical_plate_LP-12_frame.png)
 
 Thanks to [N3MI-DG](https://github.com/DraftShift/CableManagement/tree/main/UserMods/N3MI-DG/Umbilical_plates_V2)
 
