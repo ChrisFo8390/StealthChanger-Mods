@@ -1,6 +1,6 @@
 # Cartographer mount for Fysetc CNC SC Shuttle
 
-Made this for Carto V3, tested with V4, should fit Beacon to.
+Made this for Carto V3, tested with V4, should fit Beacon too.
 
 ![CNC shuttle with carto](images/shuttle_carto.png) ![Shuttle carto back](images/shuttle_carto_back.png)
 
